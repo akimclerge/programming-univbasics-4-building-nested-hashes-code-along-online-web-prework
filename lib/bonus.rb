@@ -21,7 +21,8 @@ def bonus
   }
 
   #code your solution here:
-
+  heroine =[{status:alive}]
+hero=[{status:alive}]
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
